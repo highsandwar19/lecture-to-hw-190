@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lecture to HW"
+  short_description: "从课程课件生成简洁大学生作业 Markdown 答案"
+  default_prompt: "Use $lecture-to-hw to find the relevant course materials, solve the homework with the taught methods, and produce a concise student-style Markdown solution."
